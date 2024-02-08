@@ -3,7 +3,7 @@
 
 Contest results:
 
-Jan 2024 (Bronze) 872
+*Jan 2024 (Bronze) 872*
 
  Problem 1: All test cases passed
  
