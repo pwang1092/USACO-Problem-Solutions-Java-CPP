@@ -1,5 +1,5 @@
 # USACO Problem Solutions (Java and C++)
- My solutions to the USACO bronze and silver problems that I've done, written in Java
+ My solutions to the USACO bronze and silver problems that I've done, written in Java and C++
 
 Contest results:
 
